@@ -1,0 +1,16 @@
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\bin\Debug\net5.0\Conditional_Statements_Practice.exe
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\bin\Debug\net5.0\Conditional_Statements_Practice.deps.json
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\bin\Debug\net5.0\Conditional_Statements_Practice.runtimeconfig.json
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\bin\Debug\net5.0\Conditional_Statements_Practice.runtimeconfig.dev.json
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\bin\Debug\net5.0\Conditional_Statements_Practice.dll
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\bin\Debug\net5.0\ref\Conditional_Statements_Practice.dll
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\bin\Debug\net5.0\Conditional_Statements_Practice.pdb
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\obj\Debug\net5.0\Conditional_Statements_Practice.csprojAssemblyReference.cache
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\obj\Debug\net5.0\Conditional_Statements_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\obj\Debug\net5.0\Conditional_Statements_Practice.AssemblyInfoInputs.cache
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\obj\Debug\net5.0\Conditional_Statements_Practice.AssemblyInfo.cs
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\obj\Debug\net5.0\Conditional_Statements_Practice.csproj.CoreCompileInputs.cache
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\obj\Debug\net5.0\Conditional_Statements_Practice.dll
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\obj\Debug\net5.0\ref\Conditional_Statements_Practice.dll
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\obj\Debug\net5.0\Conditional_Statements_Practice.pdb
+C:\Users\arite\source\repos\Conditional_Statements_Practice\Conditional_Statements_Practice\obj\Debug\net5.0\Conditional_Statements_Practice.genruntimeconfig.cache
